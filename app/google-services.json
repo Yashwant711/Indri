@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "892390390635",
+    "firebase_url": "https://indri-3095b-default-rtdb.firebaseio.com",
+    "project_id": "indri-3095b",
+    "storage_bucket": "indri-3095b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892390390635:android:8bb4945aa232c7b161ea2e",
+        "android_client_info": {
+          "package_name": "com.example.indri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbcyM_gjLjlStzwNDZYW7Blm9PRsT7cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
