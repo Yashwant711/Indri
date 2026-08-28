@@ -21,11 +21,11 @@ class LiveStreamApplication : Application() {
         val client = StreamVideoBuilder(
             context = this,
             user = User(
-                id = "Yashwant711",
-                name = "Yashwant",
+                id = "",
+                name = "",
             ),
-            apiKey = "6dn6xjzdu5sf", // API key
-            token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiWWFzaHdhbnQ3MTEifQ.e-SS_1RfzoKDsmmAcGiPewNM64NRQBqvdEilqVzQbEE",
+            apiKey = "", // API key
+            token = "",
             runForegroundServiceForCalls = false
         ).build()
     }
